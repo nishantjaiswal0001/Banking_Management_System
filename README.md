@@ -25,4 +25,4 @@ A **C++ Bank Management System** designed using **Object-Oriented Programming (O
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/aditya-1104/bank-management-system.git
+   git clone https://github.com/nishantjaiswal0001/Banking_Management_System.git
